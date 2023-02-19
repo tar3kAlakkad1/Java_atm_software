@@ -4,12 +4,6 @@ import javax.lang.model.util.ElementScanner14;
 
 import java.util.ArrayList;
 
-/**
- * Write a description of class atmV1TD here.
- *
- * Tarek Alakkad
- * Jan 10th, 2020
- */
 public class atmV3TD {
 
     /**
