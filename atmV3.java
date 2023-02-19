@@ -1,16 +1,5 @@
 import java.util.ArrayList;
 
-/**
- * Write a description of class atmV1 here.
- *
- * Tarek Alakkad
- * January 2nd, 2020
- * 
- * Description: atmV2 class is identical to atmV1 class, with the exception of
- * adding the ability to track successful withdraws and deposits.
- * Skip to line 206 to view the tracking method
- * 
- */
 public class atmV3 {
     // instance variables - replace the example below with your own
     private double balance;
