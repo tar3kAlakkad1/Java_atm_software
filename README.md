@@ -203,7 +203,7 @@ Your closing balance for savings is $9700.00
 This program uses a simple authentication system to prevent unauthorized access. The user must enter a password to access the functions of the program. Additionally, the program prevents users from depositing negative amounts of money.
 
 ## Contributors
-This program was written by myself, Tarek Alakkad. If you have any suggestions or feedback, please feel free to contact me at tarek.alakkad03@gmail.com.
+This program was written by myself, Tarek Alakkad with guidance from Mr. Paul Doig. If you have any suggestions or feedback, please feel free to contact me at tarek.alakkad03@gmail.com.
 
 ## Future Development
 This program is a simple example of an ATM system. Future development could include the following:
