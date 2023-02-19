@@ -1,14 +1,14 @@
 # Java_atm_software
 This project implements a bank machine class with a custom constructor that sets user inputted values, and a TestDriver class which acts as the main user interface for the BankMachine
 
-## Project overview:
+## Project overview
 
 The atmV3 class has encapsulated instance variables which include balance, accountNum, ownerName, accountType, password and accessGranted. The atmV3 class has methods to access (get) and mutate (set) the instance variables. Some instance variables cannot be changed after they have been initiated in the custom constructor. All instances variables should be accessible via password. There is a password check in all getter and setter methods to ensure legal access.
 
 The atmV3TD is a TestDriver file that simulates the functions of an ATM (Automated Teller Machine). It implements the mentioned atmV3 class with transaction logging and transfer capabilities, and acts as the main user interface by utilizing Java's built-in Scanner. It allows the user to create, access and modify multiple accounts while keeping track of all transactions.
 
 
-## Functionality:
+## Functionality
 Some of the atmV3 methods include:
 
   - Check balance
@@ -19,7 +19,7 @@ Some of the atmV3 methods include:
 
 The project also allows the user to establish two accounts (two different BankMachine objects in the TestDriver). The user can then transfer money between accounts. The transaction log will record send or receive amounts
 
-## How to Run:
+## How to Run
 
 1. Download the atmV3.java and atmV3TD.java file on your computer.
 2. Open a command prompt or terminal window.
@@ -199,13 +199,13 @@ Goodbye.
 Your closing balance for savings is $9700.00
 ```
 
-## Security:
+## Security
 This program uses a simple authentication system to prevent unauthorized access. The user must enter a password to access the functions of the program. Additionally, the program prevents users from depositing negative amounts of money.
 
-## Contributors:
+## Contributors
 This program was written by myself, Tarek Alakkad. If you have any suggestions or feedback, please feel free to contact me at tarek.alakkad03@gmail.com.
 
-## Future Development:
+## Future Development
 This program is a simple example of an ATM system. Future development could include the following:
 
 1. Adding support for more than two accounts (checking and savings).
